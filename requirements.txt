@@ -1,0 +1,11 @@
+xarray>=2023.1.0
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.9
+cartopy>=0.21
+cmocean>=3.0
+regionmask>=0.9
+shapely>=2.0
+pyproj>=3.4
+netCDF4>=1.6
